@@ -1,1 +1,1 @@
-# android
+# Hafta Sonu Andriod Eğitimleri
